@@ -37,7 +37,8 @@
   <img align="center" alt="Logo-CSS" title="CSS" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Logo-Python" title="Python" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Logo-React" title="React" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Logo-Node" title="NodeJS" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
+    <img align="center" alt="Logo-Express" title="Express" height="60"width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Logo-Node" title="NodeJs" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="Logo-MySQL" title="MySQL" height="120" width="120" src="https://waresoft.com.br/wp-content/uploads/2021/04/MySQL_Logo_600x600.png">
 </div>
  <hr>
