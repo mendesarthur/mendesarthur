@@ -30,32 +30,19 @@
  
 <div style="display: inline_block"><br>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/mendesarthur?tab=repositories">
-    <img align="center" alt="Logo-Js" title="JavaScript" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Logo-Ts" title="TypeScript" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Logo-HTML" title="HTML" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo-CSS" title="CSS" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Logo-React" title="React" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Logo-Js" title="JavaScript" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo-Ts" title="TypeScript" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Logo-HTML" title="HTML" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo-CSS" title="CSS" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <hr>
+   <img align="center" alt="Logo-React" title="React" 
+   height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Logo-Express" title="Express" height="60"width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Logo-Node" title="NodeJs" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
+  <img align="center" alt="Logo-Node" title="NodeJs" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="Logo-MySQL" title="MySQL" height="120" width="120" src="https://waresoft.com.br/wp-content/uploads/2021/04/MySQL_Logo_600x600.png">
 </div>
- <hr>
- <h2>No Futuro</h2>
- <div style="display: inline_block"><br>
-   <a target="_blank" rel="noopener noreferrer" href="https://github.com/mendesarthur?tab=repositories">
-      <img align="center" alt="Logo-java" title="Java" height="80" width="80" src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png">
-    <img align="center" alt="Logo-Python" title="Python" height="60"width="80"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Logo-swift" title="Swift"height="60" width="80" src="https://ideias.avancadas.info/images/Apple-Swift.png">
-  <img align="center" alt="Logo-Flutter " title="Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
+ 
 
- <hr>
- 
- 
- <h1>Visitas!</h1>
- 
-![Visitor Count](https://profile-counter.glitch.me/{mendesarthur}/count.svg)
- 
- 
   
 
 
