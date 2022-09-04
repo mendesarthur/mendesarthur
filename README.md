@@ -1,11 +1,11 @@
-# Bem Vindo Ao Meu Perfil!
+# Welcome to my profile!
 
-### Da uma Olhada Nos Meus projetos!
+### Take a look at my projects!
 
 <hr>
 
- - Iniciante:
- - Estudando 📚
+ - beginner:
+ - Studying 📚
  <hr>
  <ul type="square">
      <p>
@@ -26,7 +26,7 @@
  
 </div>
 
-<h2> Conhecimentos (Alguns Aprendendo) </h2>
+<h2> knowledge (some still learning) </h2>
  
 <div style="display: inline_block"><br>
    <a target="_blank" rel="noopener noreferrer" href="https://github.com/mendesarthur?tab=repositories">
