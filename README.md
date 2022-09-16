@@ -3,9 +3,7 @@
 ### Take a look at my projects!
 
 <hr>
-
- - beginner:
- - Studying 📚
+ - Studying 👨‍💻
  <hr>
  <ul type="square">
      <p>
