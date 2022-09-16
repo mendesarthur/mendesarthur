@@ -33,11 +33,16 @@
     <img align="center" alt="Logo-Js" title="JavaScript" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-Ts" title="TypeScript" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Logo-HTML" title="HTML" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo-CSS" title="CSS" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo-CSS" title="CSS" 
+  height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Logo-Sass" title="Sass" height="80"width="100"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <hr>
    <img align="center" alt="Logo-React" title="React" 
    height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Logo-Express" title="Express" height="60"width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img align="center" alt="Logo-Bootstrap" title="Bootstrap" 
+   height="80"width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="Logo-Express" title="Express" height="60"width="80"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Logo-Node" title="NodeJs" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
   <img align="center" alt="Logo-MySQL" title="MySQL" height="120" width="120" src="https://waresoft.com.br/wp-content/uploads/2021/04/MySQL_Logo_600x600.png">
 </div>
