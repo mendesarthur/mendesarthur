@@ -38,8 +38,6 @@
   <hr>
    <img align="center" alt="Logo-React" title="React" 
    height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Logo-Bulma" title="Bulma"
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" / height="80"width="100">
     <img align="center" alt="Logo-Bootstrap" title="Bootstrap" 
    height="80"width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="Logo-Express" title="Express" height="60"width="80"
