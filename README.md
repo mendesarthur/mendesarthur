@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me</h3>
 <p align="left"> I'm 17 years old. <br>
- currently i am a student of One Bit Code Brasil in Full Stack Web Development training. Every day I try to put my knowledge into practice in order to improve techniques and soft-skills applied to my area of ​​interest.</p>
+ currently i am a student of One Bit Code Brazil in Full Stack Web Development training. Every day I try to put my knowledge into practice in order to improve techniques and soft-skills applied to my area of ​​interest.</p>
 
 <h3 align="left">Languages and Tools (Learning)</h3>
 <p align="left"> 
